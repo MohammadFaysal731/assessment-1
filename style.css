@@ -20,21 +20,18 @@ font-family: 'Work Sans', sans-serif;
     padding-right: 15px;
     border-radius: 6px;
     color:white;
+}
 
-}
-.backgroun-adde{
-    background-image:url(images/shapes/shape-4.png);
-}
 .fexcibel-area{
     display: flex;
     margin-bottom: 100px;
 }  
 .haif-width{
-    width: 50%;
+    width:50%;
     margin-left:120px;
 }
 .haif-width img{
-    width: 70%;
+    width: 60%;
 }
 .my{
     box-shadow: 10px 20px 30px whitesmoke;
