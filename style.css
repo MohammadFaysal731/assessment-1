@@ -1,0 +1,37 @@
+body{
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.orange{
+    border-left :4px solid orange; 
+}
+.tomato{
+    color:tomato;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 6px;
+    color:white;
+
+}
+.backgroun-adde{
+    background-image:url(images/shapes/shape-4.png);
+}
+section{
+    display: flex;
+}  
+.haif-width{
+    width: 50%;
+    margin-left:100px;
+}
+.haif-width img{
+    width: 60%;
+}
