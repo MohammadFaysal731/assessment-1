@@ -25,13 +25,36 @@ font-family: 'Work Sans', sans-serif;
 .backgroun-adde{
     background-image:url(images/shapes/shape-4.png);
 }
-section{
+.fexcibel-area{
     display: flex;
+    margin-bottom: 100px;
 }  
 .haif-width{
     width: 50%;
-    margin-left:100px;
+    margin-left:120px;
 }
 .haif-width img{
-    width: 60%;
+    width: 70%;
+}
+.my{
+    box-shadow: 10px 20px 30px whitesmoke;
+    border-radius: 40px;
+    padding: 40px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 35px;
+    margin-bottom: 25px;
+   
+}
+.mission2022{
+    text-align: center;
+}
+#mission{
+    background-color: darkorange;
+}
+#drem{
+    background-color:cyan;
+}
+#career{
+    background-color:tomato;
 }
